@@ -2,6 +2,7 @@ com\spms\dto\ProcurementCenterDto.class
 com\spms\service\AdminService.class
 com\spms\repository\NotificationRepository.class
 com\spms\config\DataSeeder.class
+com\spms\DataInitializer.class
 com\spms\entity\Role.class
 com\spms\service\OfficerService.class
 com\spms\entity\Notification.class
